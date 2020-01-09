@@ -1,0 +1,4 @@
+Host someinternalhost
+User nikolay
+Port 22
+Hostname 10.166.0.3
